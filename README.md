@@ -8,7 +8,7 @@
 
 ## About
 
-This is the 90 North (Enfund.io) Assignment. The assignment has three [tasks](tasks.pdf):
+This is the 90 North (Enfund.io) Assignment. The assignment has three tasks:
 
 - [Task 1: Web page creation](Frontend)
 - [Task 2: Django Chat App](django)
