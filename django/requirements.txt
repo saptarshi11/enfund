@@ -1,0 +1,9 @@
+.\venv\Scripts\activateDjango==3.2.2
+daphne==3.0.1
+channels==3.0.3
+channels-redis==3.2.0
+djangorestframework==3.12.4
+djangorestframework-simplejwt==4.6.0
+django-allauth==0.44.0
+dj-rest-auth==2.1.9
+django-admin-inline-paginator==0.2.0
