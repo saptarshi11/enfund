@@ -2,18 +2,17 @@
 
 - [About](#about)
 - [Getting Started](#getting-started)
-  - [Task 1 - Web page creation](#task-1---web-page-creation)
-  - [Task 2 - Django Chat App](#task-2---django-chat-app)
-  - [Task 3 - AWS Lambda Functions](#task-3---aws-lambda-functions)
-- [License](#license)
+  - [Task 1 - Web page creation]
+  - [Task 2 - Django Chat App]
+  - [Task 3 - AWS Lambda Functions]
 
 ## About
 
 This is the 90 North (Enfund.io) Assignment. The assignment has three [tasks](tasks.pdf):
 
-- [Task 1: Web page creation](frontend)
+- [Task 1: Web page creation](Frontend)
 - [Task 2: Django Chat App](django)
-- [Task 3: AWS Lambda Functions](aws)
+- [Task 3: AWS Lambda Functions](AWS lamda)
 
 ## Pre-requisites
 
@@ -26,28 +25,22 @@ This is the 90 North (Enfund.io) Assignment. The assignment has three [tasks](ta
 1. Clone the repository:
     
    ```bash
-   git clone https://github.com/Sn1F3rt/90-North-Assignment.git
+   git clone (https://github.com/saptarshi11/enfund)
    ```
-
-2. Navigate to the project directory:
-
-   ```bash
-    cd 90-North-Assignment
-    ```
    
-3. Create a virtual environment:
+2. Create a virtual environment:
 
    ```bash
    python -m venv .venv
    ```
    
-4. Install dependencies:
+3. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
    
-5. Activate the virtual environment:
+4. Activate the virtual environment:
 
    ```bash
     source .venv/bin/activate
