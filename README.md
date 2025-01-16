@@ -12,7 +12,7 @@ This is the 90 North (Enfund.io) Assignment. The assignment has three [tasks](ta
 
 - [Task 1: Web page creation](Frontend)
 - [Task 2: Django Chat App](django)
-- [Task 3: AWS Lambda Functions](AWS lamda)
+- [Task 3: AWS Lambda Functions](AWSlamda)
 
 ## Pre-requisites
 
